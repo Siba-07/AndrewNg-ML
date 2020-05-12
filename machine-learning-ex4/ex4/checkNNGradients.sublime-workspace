@@ -1,0 +1,548 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Th",
+				"Theta2"
+			],
+			[
+				"end",
+				"endfor"
+			],
+			[
+				"The",
+				"Theta1"
+			],
+			[
+				"Theta",
+				"Theta2"
+			],
+			[
+				"TH",
+				"Theta1"
+			],
+			[
+				"theta",
+				"Theta1"
+			],
+			[
+				"num",
+				"num_labels"
+			],
+			[
+				"l",
+				"lambda"
+			],
+			[
+				"the",
+				"theta"
+			],
+			[
+				"print",
+				"printf\tprintf …"
+			],
+			[
+				"th",
+				"theta"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"bg-c",
+				"background-color\tproperty"
+			],
+			[
+				"TEXT",
+				"text-align\tproperty"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"be",
+				"begin"
+			],
+			[
+				"p",
+				"push_back"
+			],
+			[
+				"c",
+				"c"
+			],
+			[
+				"iso",
+				"iostream\tstandard header"
+			],
+			[
+				"ioa",
+				"iostream\tstandard header"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"ma",
+				"make_pair"
+			],
+			[
+				"vect",
+				"vector\tstandard header"
+			],
+			[
+				"fin",
+				"findSubarraySum"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"m",
+				"main\tmain()"
+			],
+			[
+				"t",
+				"t"
+			],
+			[
+				"en",
+				"end"
+			],
+			[
+				"st",
+				"start"
+			],
+			[
+				"max",
+				"max_end_here"
+			],
+			[
+				"max_",
+				"max_so_far"
+			],
+			[
+				"s",
+				"size"
+			],
+			[
+				"vector",
+				"vector\tstandard header"
+			],
+			[
+				"ca",
+				"ca"
+			],
+			[
+				"j",
+				"j"
+			],
+			[
+				"d",
+				"d"
+			],
+			[
+				"home",
+				"home_view"
+			],
+			[
+				"about",
+				"about_view"
+			],
+			[
+				"B",
+				"BASE_DIR"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"EVE",
+				"EVENT_LBUTTONDOWN"
+			],
+			[
+				"fo",
+				"font"
+			],
+			[
+				"date",
+				"datet"
+			],
+			[
+				"C",
+				"CAP_PROP_FRAME_HEIGHT"
+			],
+			[
+				"N",
+				"Node"
+			],
+			[
+				"re",
+				"reversePrint"
+			],
+			[
+				"scroll",
+				"scroll_box"
+			],
+			[
+				"test",
+				"test1"
+			],
+			[
+				"TEST",
+				"test1"
+			],
+			[
+				"chrome",
+				"chrome_path"
+			],
+			[
+				"a",
+				"append"
+			],
+			[
+				"vale",
+				"valenceElectrons"
+			],
+			[
+				"right",
+				"rightbr"
+			],
+			[
+				"ne",
+				"next"
+			],
+			[
+				"prin",
+				"print"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"lef",
+				"leftl"
+			],
+			[
+				"io",
+				"iostream\tstandard header"
+			],
+			[
+				"str",
+				"string\tstandard header"
+			],
+			[
+				"get",
+				"get_lcm"
+			],
+			[
+				"ios",
+				"iostream\tstandard header"
+			],
+			[
+				"for",
+				"forward"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/sibasisnayak/Desktop/machine-learning-ex4/ex4/nnCostFunction.m",
+		"/Users/sibasisnayak/Desktop/cp/mayl3.cpp",
+		"/Users/sibasisnayak/Desktop/cp/mayl2.cpp",
+		"/Users/sibasisnayak/Desktop/cp/mayl1.cpp",
+		"/Users/sibasisnayak/Desktop/cp/mayl.cpp",
+		"/Users/sibasisnayak/Desktop/machine-learning-ex4/ex4/randInitializeWeights.m",
+		"/Users/sibasisnayak/Desktop/machine-learning-ex4/ex4/sigmoidGradient.m",
+		"/Users/sibasisnayak/Desktop/machine-learning-ex2/ex2/sigmoid.m",
+		"/Users/sibasisnayak/Desktop/machine-learning-ex2/ex2/costFunction.m",
+		"/Users/sibasisnayak/Desktop/machine-learning-ex4/ex4/sigmoid.m",
+		"/Users/sibasisnayak/Desktop/machine-learning-ex4/ex4/ex4.m",
+		"/Users/sibasisnayak/Desktop/cont.cpp",
+		"/Users/sibasisnayak/Desktop/10 Ideas/creative platform",
+		"/Users/sibasisnayak/Desktop/machine-learning-ex3/ex3/sigmoid.m",
+		"/Users/sibasisnayak/Desktop/machine-learning-ex3/ex3/lrCostFunction.m",
+		"/Users/sibasisnayak/Desktop/machine-learning-ex3/ex3/displayData.m",
+		"/Users/sibasisnayak/Desktop/machine-learning-ex3/ex3/fmincg.m",
+		"/Users/sibasisnayak/Desktop/machine-learning-ex3/ex3/oneVsAll.m",
+		"/Users/sibasisnayak/Desktop/machine-learning-ex3/ex3/ex3.m",
+		"/Users/sibasisnayak/Desktop/machine-learning-ex3/ex3/ex3_nn.m",
+		"/Users/sibasisnayak/Desktop/machine-learning-ex3/ex3/predictOneVsAll.m",
+		"/Users/sibasisnayak/Desktop/machine-learning-ex3/ex3/predict.m",
+		"/Users/sibasisnayak/Desktop/machine-learning-ex2/ex2/ex2_reg.m",
+		"/Users/sibasisnayak/Desktop/machine-learning-ex2/ex2/costFunctionReg.m",
+		"/Users/sibasisnayak/Desktop/machine-learning-ex2/ex2/ex2.m",
+		"/Users/sibasisnayak/Desktop/machine-learning-ex2/ex2/mapFeature.m",
+		"/Users/sibasisnayak/Desktop/machine-learning-ex2/ex2/plotDecisionBoundary.m",
+		"/Users/sibasisnayak/Desktop/machine-learning-ex2/ex2/predict.m",
+		"/Users/sibasisnayak/Desktop/machine-learning-ex2/ex2/plotData.m",
+		"/Users/sibasisnayak/Desktop/10 Ideas/flash games",
+		"/Users/sibasisnayak/Desktop/machine-learning-ex1/ex1/computeCostMulti.m",
+		"/Users/sibasisnayak/Desktop/machine-learning-ex1/ex1/gradientDescent.m",
+		"/Users/sibasisnayak/Desktop/machine-learning-ex1/ex1/ex1_multi.m",
+		"/Users/sibasisnayak/Desktop/cont1.cpp",
+		"/Users/sibasisnayak/Desktop/machine-learning-ex1/ex1/normalEqn.m",
+		"/Users/sibasisnayak/Desktop/machine-learning-ex1/ex1/computeCost.m",
+		"/Users/sibasisnayak/Desktop/machine-learning-ex1/ex1/featureNormalize.m",
+		"/Users/sibasisnayak/Desktop/machine-learning-ex1/ex1/ex1.m",
+		"/Users/sibasisnayak/Desktop/machine-learning-ex1/ex1/gradientDescentMulti.m",
+		"/Users/sibasisnayak/Desktop/machine-learning-ex1/ex1/plotData.m",
+		"/Users/sibasisnayak/Desktop/machine-learning-ex1/ex1/warmUpExercise.m",
+		"/Users/sibasisnayak/Desktop/lt1.cpp",
+		"/Users/sibasisnayak/Desktop/csv.py",
+		"/Users/sibasisnayak/Desktop/10 Ideas/for municipal",
+		"/Users/sibasisnayak/Desktop/cp/apl/lt3.py",
+		"/Users/sibasisnayak/Desktop/homepage/scroll-down.js",
+		"/Users/sibasisnayak/Desktop/homepage/main.css",
+		"/Users/sibasisnayak/Desktop/homepage/index.html",
+		"/Users/sibasisnayak/Desktop/cp/apl/lt3.cpp",
+		"/Users/sibasisnayak/Desktop/cp/apl/lt2.cpp",
+		"/Users/sibasisnayak/Desktop/homepage/hi.js",
+		"/Users/sibasisnayak/Desktop/cp/apl/lt1.cpp",
+		"/Users/sibasisnayak/Downloads/fixed-navigation-bar-master/fixed-navigation-bar.css",
+		"/Users/sibasisnayak/Desktop/dsa/ps1/peak.py",
+		"/Users/sibasisnayak/Desktop/dsa/ps1/trace.py",
+		"/Users/sibasisnayak/Desktop/cp/prac/focs.cpp",
+		"/Users/sibasisnayak/Desktop/dsa/notes  6.006",
+		"/Users/sibasisnayak/Desktop/dsa/ps1/algorithms.py",
+		"/Users/sibasisnayak/Desktop/cp/prac/leet2.py",
+		"/Users/sibasisnayak/Desktop/cp/prac/booksys.cpp",
+		"/Users/sibasisnayak/Desktop/cp/prac/cutribbon.cpp",
+		"/Users/sibasisnayak/Desktop/sos/network hardware and software",
+		"/Users/sibasisnayak/Desktop/10 Ideas/covidfor small scale biz",
+		"/Users/sibasisnayak/Desktop/form/src/assets/data/default.json",
+		"/Users/sibasisnayak/Desktop/form/src/app/box/box.component.html",
+		"/Users/sibasisnayak/Desktop/form/src/app/app.component.html",
+		"/Users/sibasisnayak/Desktop/form/src/app/app.module.ts",
+		"/Users/sibasisnayak/Desktop/cp/prac/iceskate.cpp",
+		"/Users/sibasisnayak/Desktop/cp/prac/IITB Profs",
+		"/Users/sibasisnayak/Desktop/cp/prac/middle.cpp",
+		"/Users/sibasisnayak/Desktop/cp/prac/permute.cpp",
+		"/Users/sibasisnayak/Desktop/cp/prac/ilya.cpp",
+		"/Users/sibasisnayak/Desktop/cp/prac/kuriyama.cpp",
+		"/Users/sibasisnayak/Desktop/cp/prac/party.cpp",
+		"/Users/sibasisnayak/Desktop/cp/prac/circle.cpp",
+		"/Users/sibasisnayak/Desktop/cp/prac/statistics.cpp",
+		"/Users/sibasisnayak/Desktop/cp/prac/change.cpp",
+		"/Users/sibasisnayak/Desktop/cp/prac/staircase.cpp",
+		"/Users/sibasisnayak/Desktop/cp/prac/laptops.cpp",
+		"/Users/sibasisnayak/Desktop/cp/prac/elephant.cpp",
+		"/Users/sibasisnayak/Desktop/cp/prac/escapestones.cpp",
+		"/Users/sibasisnayak/Desktop/sel.py",
+		"/Users/sibasisnayak/Desktop/insta likes graph/like.py",
+		"/Users/sibasisnayak/Desktop/cp/prac/flipgame.cpp",
+		"/Users/sibasisnayak/Desktop/cp/cfc/anton.cpp",
+		"/Users/sibasisnayak/Desktop/cp/cfc/little.cpp",
+		"/Users/sibasisnayak/Desktop/cp/apl/apl6.cpp",
+		"/Users/sibasisnayak/Desktop/cp/prac/foxbox.cpp",
+		"/Users/sibasisnayak/Desktop/cp/prac/ranklist.cpp",
+		"/Users/sibasisnayak/Desktop/cp/prac/mashmokh.cpp",
+		"/Users/sibasisnayak/Desktop/cp/prac/fence.cpp",
+		"/Users/sibasisnayak/Desktop/cp/prac/tprime.cpp",
+		"/Users/sibasisnayak/Desktop/cp/prac/stringtask.cpp",
+		"/Users/sibasisnayak/Desktop/cp/prac/childntoy.cpp",
+		"/Users/sibasisnayak/Desktop/cp/prac/football.cpp",
+		"/Users/sibasisnayak/Desktop/cp/apl/apl7.cpp",
+		"/Users/sibasisnayak/Desktop/cp/cfc/altcurrent.cpp",
+		"/Users/sibasisnayak/Desktop/cp/apl/apl5.cpp",
+		"/Users/sibasisnayak/Desktop/cp/apl/apl4.cpp",
+		"/Users/sibasisnayak/Desktop/cp/apl/apl3.cpp",
+		"/Users/sibasisnayak/Desktop/cp/apl/apl2.cpp",
+		"/Users/sibasisnayak/Desktop/cp/apl/apl1.cpp",
+		"/Users/sibasisnayak/Desktop/cp/gcj6.cpp",
+		"/Users/sibasisnayak/Desktop/cp/gcj5.cpp",
+		"/Users/sibasisnayak/Desktop/cp/gcj3.cpp",
+		"/Users/sibasisnayak/Desktop/cp/gcj2.cpp",
+		"/Users/sibasisnayak/Desktop/cp/gcj1.cpp",
+		"/Users/sibasisnayak/Desktop/calcu/src/calc/prod/models.py",
+		"/Users/sibasisnayak/Desktop/calcu/src/calc/prod/admin.py",
+		"/Users/sibasisnayak/Desktop/calcu/src/calc/calc/settings.py",
+		"/Users/sibasisnayak/Desktop/cp/spoj/prqu.cpp",
+		"/Users/sibasisnayak/Desktop/cp/cfc/aprfool/1.cpp",
+		"/Users/sibasisnayak/Desktop/cp/gcjam.cpp",
+		"/Users/sibasisnayak/Desktop/cp/dp/ABA12C.cpp",
+		"/Users/sibasisnayak/Desktop/cp/dp/altaray.cpp",
+		"/Users/sibasisnayak/dev/trydjango/somename/src/trydjango/trydjango/urls.py",
+		"/Users/sibasisnayak/dev/trydjango/somename/src/trydjango/product/models.py",
+		"/Users/sibasisnayak/dev/trydjango/somename/src/trydjango/product/views.py",
+		"/Users/sibasisnayak/dev/trydjango/somename/src/templates/home.html",
+		"/Users/sibasisnayak/dev/trydjango/somename/src/trydjango/product/admin.py",
+		"/Users/sibasisnayak/Desktop/sibs.cpp",
+		"/Users/sibasisnayak/Desktop/3mlt.cpp",
+		"/Users/sibasisnayak/Desktop/2mlt.cpp",
+		"/Users/sibasisnayak/Desktop/1mlt.cpp",
+		"/Users/sibasisnayak/Desktop/629.cpp",
+		"/Users/sibasisnayak/Desktop/opencv/fl",
+		"/Users/sibasisnayak/Desktop/opencv/sixth.py",
+		"/Users/sibasisnayak/Desktop/opencv/fifth.py"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 122.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "checkNNGradients.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 141.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
